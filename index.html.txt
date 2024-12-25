@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Получите лучшие промокоды для 1win. Подпишитесь на наш Telegram-канал и наслаждайтесь эксклюзивными бонусами!">
+    <meta name="description" content="Лучшие промокоды 1win для бонусов и привилегий. Получите промокоды прямо сейчас и подписывайтесь на наш Telegram-канал!">
+    <meta name="keywords" content="промокоды 1win, бонусы 1win, акции 1win">
     <title>Промокоды 1win</title>
     <style>
         body {
@@ -27,7 +28,7 @@
         section {
             padding: 20px;
             max-width: 800px;
-            margin: 0 auto;
+            margin: 20px auto;
             background: #fff;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
@@ -49,7 +50,6 @@
             color: #007bff;
         }
         .telegram {
-            display: block;
             text-align: center;
             margin: 20px 0;
         }
@@ -70,30 +70,42 @@
             margin-top: 20px;
             font-size: 0.9rem;
         }
+        .promo-image {
+            text-align: center;
+        }
+        .promo-image img {
+            max-width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>Промокоды для 1win</h1>
-        <p>Получите эксклюзивные бонусы для ставок прямо сейчас!</p>
+        <h1>Лучшие промокоды для 1win</h1>
+        <p>Получите эксклюзивные бонусы и предложения прямо сейчас!</p>
     </header>
 
     <section>
+        <div class="promo-image">
+            <img src="https://via.placeholder.com/800x400" alt="Акции и бонусы 1win">
+        </div>
+
         <h2>Активные промокоды</h2>
         <div class="promo">
             <p>Ваш промокод:</p>
             <div class="promo-code">1WINBONUS</div>
         </div>
 
-        <p>Хотите получать новые промокоды и специальные предложения? Подписывайтесь на наш Telegram-канал!</p>
+        <p>Хотите всегда быть в курсе новых промокодов и акций? Подписывайтесь на наш Telegram-канал и получайте лучшие предложения первыми!</p>
 
         <div class="telegram">
-            <a href="https://t.me/win1ww" target="_blank">Перейти в Telegram</a>
+            <a href="https://t.me/win1ww" target="_blank">Подписаться на Telegram-канал</a>
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2024 Промокоды для 1win. Все права защищены.</p>
+        <p>&copy; 2024 Промокоды 1win. Все права защищены.</p>
     </footer>
 </body>
 </html>
