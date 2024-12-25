@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Получите лучшие промокоды для 1win. Подпишитесь на наш Telegram-канал и наслаждайтесь эксклюзивными бонусами!">
+    <title>Промокоды 1win</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #007bff;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        section h2 {
+            color: #007bff;
+        }
+        .promo {
+            background: #e9f5ff;
+            border: 1px solid #007bff;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .promo-code {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .telegram {
+            display: block;
+            text-align: center;
+            margin: 20px 0;
+        }
+        .telegram a {
+            background: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 1.2rem;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .telegram a:hover {
+            background: #0056b3;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Промокоды для 1win</h1>
+        <p>Получите эксклюзивные бонусы для ставок прямо сейчас!</p>
+    </header>
+
+    <section>
+        <h2>Активные промокоды</h2>
+        <div class="promo">
+            <p>Ваш промокод:</p>
+            <div class="promo-code">1WINBONUS</div>
+        </div>
+
+        <p>Хотите получать новые промокоды и специальные предложения? Подписывайтесь на наш Telegram-канал!</p>
+
+        <div class="telegram">
+            <a href="https://t.me/win1ww" target="_blank">Перейти в Telegram</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Промокоды для 1win. Все права защищены.</p>
+    </footer>
+</body>
+</html>
